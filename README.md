@@ -47,7 +47,7 @@ Before using SanSync, you need to install the following dependencies:
 ## Requirements
 
 - GTA5 with ScriptHookV installed
-- Python 3.8+
+- Python 3.12+ 64bit
 - Required Python packages (see requirements.txt)
 
 ## Installation
